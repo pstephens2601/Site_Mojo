@@ -1,0 +1,21 @@
+ul.menu {
+	width: 100%;
+	overflow: auto;
+}
+li.menu {
+	display: block;
+}
+a.menu {
+	display: block;
+	float: left;
+	padding: 5px;
+	padding-left: 2em;
+	padding-right: 2em;
+	color: #121310;
+	text-decoration: none;
+	background: #D6E68A;
+}
+a:hover.menu {
+	background: #121310;
+	color: white;
+}
